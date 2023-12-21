@@ -1,0 +1,50 @@
+.boxes{
+    display: flex;
+    margin: 100px 150px;
+    /* border: 2px solid red; */
+    padding: 20px;
+}
+.div-mini{
+    border: 2px solid black;
+    margin: 50px 50px;
+    background-color: #000;
+    color: #ffffff;
+    padding: 60px;
+    text-align:justify;
+    display: flex;
+    /* justify-content:space-between ; */
+}
+.div-mini h1{
+font-size: 32px;
+font-weight: 600;
+padding-bottom: 23px;
+}
+.div-mini p{
+    letter-spacing: 1px;
+}
+.div-mini img{
+    width: 290px;
+    background-color: #FFC700;
+    border-radius: 50%;
+    margin-left: -90px;
+    margin-block-start: 40px;
+    padding: 10px;
+    z-index: -1;
+}
+
+.dives{
+     margin: 20px; 
+    
+}
+
+.divose h1{
+    text-align: end; 
+    font-size: 40px;
+    font-weight: 800; 
+}
+span{
+     color: #FFC700;
+}
+.pic{
+
+}

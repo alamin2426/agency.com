@@ -1,0 +1,71 @@
+
+
+.main-galary{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.pabe{
+    width: 250px;
+height: 350px;
+background-color: #D8D8D8;
+border-top-right-radius: 100%;
+border-bottom-right-radius: 100%;
+/* text-align: center; */
+
+
+}
+.small-pave{
+    margin: 10px 220px;
+    width: 500px;
+}
+.small-pave h1{
+    font-size: 50px;
+    font-weight: 600;
+}
+.small-pave h4{
+    font-size: 35px;
+}
+.small-pave p{
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+.glary img{
+width: 550px;
+height: 450px;
+/* padding: 10px; */
+margin: 50px 300px;
+}
+.telary{
+    margin-top:120px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+.telary h1{
+    display: flex;
+width: 500px;
+height: 600px;
+/* flex-direction: column; */
+/* justify-content: center; */
+/* align-items: center; */
+flex-shrink: 0;
+background-color: #ffc70f;
+margin-top: 400px;
+}
+.yeallobox{
+    margin-left:-500px;
+    z-index:-1;
+}
+.telary img{
+    /* margin-left: 200px; */
+    width: 550px;
+    height: 450px;
+    margin: 50px 352px 0px 0px;
+}
+.cotoimage img{
+
+    height: 300px;
+}

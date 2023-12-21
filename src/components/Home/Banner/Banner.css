@@ -1,0 +1,41 @@
+.carousel{
+    background-color: #FFC700;
+    margin-top: 20px;
+
+}
+.calorol{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+   
+    /* width: 100%; */
+}
+
+
+.left h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.left p{
+    text-align: center;
+   padding:20px 200px 0px 130px;
+   letter-spacing: 2px;
+}
+.right{
+align-items: end;
+}
+.right img{
+
+height: 650px;
+width: 1500px;
+margin: 0px 350px 0 0;
+
+}
+
+.btn-outline {
+    margin: 20px 500px;
+    letter-spacing: 3px; 
+}

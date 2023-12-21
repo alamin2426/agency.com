@@ -1,0 +1,42 @@
+.main-mailsoten{
+    display: flex;
+    width: 90%;
+    margin: 70px auto;
+    justify-content:space-between;
+    align-items: center;
+    /* border: 2px solid gray; */
+    background-color: black;
+    padding: 20px;
+    text-align: center;
+    color: #FFC700;
+    
+}
+.mailsoten-box{
+    padding: 50px;
+  background-color: black;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px; 
+  margin: 0 auto;
+  overflow: hidden;
+  cursor: pointer;
+
+}
+.mailsoten-box h1{
+    font-size: 50px;
+
+}
+.mailsoten-box p{
+    font-weight: 600;
+    letter-spacing: 1px;
+    color: #fff;
+}
+.mailsoten-box:hover{
+    color: white;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+    background-color: #FFC700;
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+    
+}

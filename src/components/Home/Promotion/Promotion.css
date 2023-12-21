@@ -1,0 +1,40 @@
+
+.main-promotion{
+margin: 40px 0px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+
+.promtion-one {
+
+}
+.promtion-one h1{
+    display: flex;
+    width: 370px;
+height: 255px;
+background-color: #D8D8D8;
+margin: 0px 0px -100px 0px;
+border-radius: 5px;
+}
+.promtion-one img{
+    width: 600px;
+    height: 350px;
+    margin-left: 200px;
+    border-radius: 5px;
+    
+}
+.promoton-two{
+
+}
+.promoton-two h1{
+    font-size: 40px;
+    font-weight: 600;
+    min-width: 40vw;
+}
+.promoton-two p{
+    margin:20px 0px;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
